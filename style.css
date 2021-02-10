@@ -1,0 +1,57 @@
+.resimSlider{
+    height: 600px;
+}
+
+body{
+    padding-top: 50px;
+    font-family: 'Pangolin', el yazısı;
+}
+.hakkimizda{
+    background-color: #f3f2f2;
+}
+.ayrac{
+    border:none;
+    border: 3px solid #474747;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.igri{
+    color: #474747;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f3f2f2;
+    background-color: #f3f2f2;
+}
+.ekip{
+    background-color: white;
+}
+.ibeyaz{
+    color: #474747;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+}
+.ekipcard>img:hover{
+    opacity: 0.8;
+}
+
+.galeri{
+    background-color: #f3f2f2;
+}
+.igaleri{
+    color: #474747;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f3f2f2;
+    background-color: #f3f2f2;
+}
+.figure:hover{
+    opacity: 0.8;
+}
+.iletisim{
+    background-color: white;
+}
